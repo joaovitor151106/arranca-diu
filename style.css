@@ -1,6 +1,6 @@
 header {
-    background-color: #033d44;
-    color: white;
+    background-color: #000000;
+    color: rgb(0, 0, 0);
 }
 
 .cabecalho-imagem{
@@ -9,7 +9,7 @@ header {
 
 .cabecalho {
     background-color: #000000;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 251, 251);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -28,14 +28,14 @@ header {
 }
 
 .escola-imagem{
-    width: 40%;
+    width: 26%;
 }
 
 .escola{
-    background-image: linear-gradient(#240858,#f3d4d4);
-    color:rgb(0, 0, 0);
+    background-image: linear-gradient(#000000,#4b0574);
+    color:rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 150px 0;
 }
